@@ -5926,9 +5926,9 @@ window.QUIZ_DATA = [
     "question": "Hình ảnh điển hình của u nhú đảo ngược mũi xoang trên phim chụp cộng hưởng từ (MRI) là:",
     "options": {
       "A": "Không giúp phân biệt được mờ lòng xoang do dịch tắc nghẽn với khối u",
-      "B": "Hình ảnh vân cuộn não (Convoluted cerebriform pattern) trên chuỗi xung T2 và T1 có tiêm cản từ",
+      "B": "Hình ảnh vân cuộn não (Convoluted cerebriform pattern) trên chuỗi xung T2",
       "C": "Ngấm thuốc đồng nhất không cuộn vân",
-      "D": "Tín hiệu dịch đồng nhất trên T2"
+      "D": "Hình ảnh vân cuộn não (Convoluted cerebriform pattern) trên chuỗi xung T1"
     },
     "answer": "B",
     "confidence": "Chắc chắn",
